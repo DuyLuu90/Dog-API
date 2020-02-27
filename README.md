@@ -1,0 +1,1 @@
+This app is created to let users choose to display between 1 and 50 random dog images, then loads the images in the DOM and then load a single random image for a specific breed, based on a user input. This app will account for the happy case when the breed is found, as well as the unhappy case when it is not. 
